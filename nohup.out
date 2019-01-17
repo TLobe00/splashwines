@@ -1,0 +1,24 @@
+
+                                                                  
+  [Symfony\Component\Console\Exception\CommandNotFoundException]  
+  Command "importer:GetOrders" is not defined.                    
+  Did you mean this?                                              
+      importer:ImportOrders                                       
+                                                                  
+
+PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 8192 bytes) in /home/forge/importer.rocketcodeapps.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in /home/forge/importer.rocketcodeapps.com/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+Error creating for 7059240
+Error creating for 7056958
+
+                                                                               
+  [ErrorException]                                                             
+  Division by zero (View: /home/forge/importer.rocketcodeapps.com/resources/v  
+  iews/templates/order.blade.php)                                              
+                                                                               
+
+                    
+  [ErrorException]  
+  Division by zero  
+                    
+
